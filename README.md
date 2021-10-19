@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BayJac
-- 👀 I’m interested in programming language
+- 👀 I’m interested in programming languages
 - 🌱 I’m currently learning Java Graphics Interfaces
 - 💞️ I’m looking to collaborate with developers professionels as well as like newbies
 - 📫 There is my email : bjacoguy@gmail.com
